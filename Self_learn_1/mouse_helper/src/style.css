@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #8e8e8e;
+}
+
+.cursor {
+  border-radius: 50%;
+  background-color: transparent;
+  height: 30px;
+  width: 30px;
+  opacity: 0.8;
+  fill: aliceblue;
+  z-index: 3;
+}
